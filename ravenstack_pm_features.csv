@@ -1,0 +1,4 @@
+feature
+account_age_days
+subscription_tenure_days
+days_since_latest_subscription_start
